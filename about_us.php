@@ -17,20 +17,6 @@
     <div class="container pad">
     	<div class="row">
     		<div class="col-lg-4">
-    			<strong>Deepti Yadav</strong>
-    			<address>
-    				11/IT/26<br>
-    				<a href="mailto:#">deepti.deeptiyadav@gmail.com</a>
-    			</address>
-    		</div>
-    		<div class="col-lg-4">
-    			<strong>Ankit Kaswa</strong>
-    			<address>
-    				11/IT/27<br>
-    				<a href="mailto:#">kaswa.2011@gmail.com</a>
-    			</address>
-    		</div>
-    		<div class="col-lg-4">
     			<strong>Gopesh Tulsyan</strong>
     			<address>
     				11/IT/28<br>
